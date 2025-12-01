@@ -1,0 +1,12 @@
+{
+  "RTX 2060": {
+    "League of Legends": { "low": 300, "medium": 260, "high": 220 },
+    "Valorant": { "low": 260, "medium": 230, "high": 200 },
+    "PUBG": { "low": 140, "medium": 110, "high": 80 }
+  },
+  "RTX 3060": {
+    "League of Legends": { "low": 380, "medium": 340, "high": 300 },
+    "Valorant": { "low": 320, "medium": 290, "high": 250 },
+    "PUBG": { "low": 180, "medium": 150, "high": 120 }
+  }
+}

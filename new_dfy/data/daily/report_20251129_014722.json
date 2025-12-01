@@ -1,0 +1,327 @@
+{
+  "session_id": "20251129_014722",
+  "game_name": "desktop",
+  "created_at": 1764348471.5009263,
+  "time_series": [
+    {
+      "cpu": 18.6,
+      "ram": 47.6,
+      "gpu": 10.0,
+      "gpu_temp": 56.0,
+      "disk_read": 1.7,
+      "disk_write": 2.26,
+      "net_upload": 4.794,
+      "net_download": 19.87,
+      "timestamp": 1764348443.7803874
+    },
+    {
+      "cpu": 23.3,
+      "ram": 47.7,
+      "gpu": 7.0,
+      "gpu_temp": 56.0,
+      "disk_read": 0.03,
+      "disk_write": 2.17,
+      "net_upload": 2.815,
+      "net_download": 11.557,
+      "timestamp": 1764348444.7937806
+    },
+    {
+      "cpu": 23.3,
+      "ram": 47.7,
+      "gpu": 7.0,
+      "gpu_temp": 56.0,
+      "disk_read": 0.03,
+      "disk_write": 2.17,
+      "net_upload": 2.815,
+      "net_download": 11.557,
+      "timestamp": 1764348445.7805405
+    },
+    {
+      "cpu": 12.7,
+      "ram": 47.7,
+      "gpu": 9.0,
+      "gpu_temp": 57.0,
+      "disk_read": 0.06,
+      "disk_write": 2.18,
+      "net_upload": 0.133,
+      "net_download": 10.572,
+      "timestamp": 1764348446.7881718
+    },
+    {
+      "cpu": 19.5,
+      "ram": 47.7,
+      "gpu": 8.0,
+      "gpu_temp": 57.0,
+      "disk_read": 0.0,
+      "disk_write": 0.12,
+      "net_upload": 9.104,
+      "net_download": 19.356,
+      "timestamp": 1764348447.930401
+    },
+    {
+      "cpu": 19.5,
+      "ram": 47.7,
+      "gpu": 8.0,
+      "gpu_temp": 57.0,
+      "disk_read": 0.0,
+      "disk_write": 0.12,
+      "net_upload": 9.104,
+      "net_download": 19.356,
+      "timestamp": 1764348448.8009477
+    },
+    {
+      "cpu": 9.9,
+      "ram": 47.7,
+      "gpu": 11.0,
+      "gpu_temp": 55.0,
+      "disk_read": 0.03,
+      "disk_write": 2.42,
+      "net_upload": 15.522,
+      "net_download": 11.449,
+      "timestamp": 1764348449.7959664
+    },
+    {
+      "cpu": 22.9,
+      "ram": 47.6,
+      "gpu": 19.0,
+      "gpu_temp": 54.0,
+      "disk_read": 0.0,
+      "disk_write": 2.21,
+      "net_upload": 0.098,
+      "net_download": 11.148,
+      "timestamp": 1764348450.8132722
+    },
+    {
+      "cpu": 9.4,
+      "ram": 47.6,
+      "gpu": 30.0,
+      "gpu_temp": 54.0,
+      "disk_read": 0.0,
+      "disk_write": 1.25,
+      "net_upload": 0.135,
+      "net_download": 11.847,
+      "timestamp": 1764348451.8403695
+    },
+    {
+      "cpu": 9.4,
+      "ram": 47.6,
+      "gpu": 30.0,
+      "gpu_temp": 54.0,
+      "disk_read": 0.0,
+      "disk_write": 1.25,
+      "net_upload": 0.135,
+      "net_download": 11.847,
+      "timestamp": 1764348452.8204808
+    },
+    {
+      "cpu": 12.8,
+      "ram": 47.7,
+      "gpu": 28.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 1.23,
+      "net_upload": 34.428,
+      "net_download": 20.404,
+      "timestamp": 1764348453.8121104
+    },
+    {
+      "cpu": 15.8,
+      "ram": 47.8,
+      "gpu": 36.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 2.11,
+      "net_upload": 15.884,
+      "net_download": 19.303,
+      "timestamp": 1764348454.8837693
+    },
+    {
+      "cpu": 15.8,
+      "ram": 47.8,
+      "gpu": 36.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 2.11,
+      "net_upload": 15.884,
+      "net_download": 19.303,
+      "timestamp": 1764348455.847463
+    },
+    {
+      "cpu": 13.3,
+      "ram": 47.8,
+      "gpu": 35.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 1.25,
+      "net_upload": 8.919,
+      "net_download": 11.317,
+      "timestamp": 1764348456.8435752
+    },
+    {
+      "cpu": 14.4,
+      "ram": 47.8,
+      "gpu": 42.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 1.19,
+      "net_upload": 0.232,
+      "net_download": 19.577,
+      "timestamp": 1764348457.847622
+    },
+    {
+      "cpu": 14.4,
+      "ram": 47.8,
+      "gpu": 33.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 2.22,
+      "net_upload": 0.192,
+      "net_download": 11.34,
+      "timestamp": 1764348458.893379
+    },
+    {
+      "cpu": 14.4,
+      "ram": 47.8,
+      "gpu": 33.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 2.22,
+      "net_upload": 0.192,
+      "net_download": 11.34,
+      "timestamp": 1764348459.8749447
+    },
+    {
+      "cpu": 13.3,
+      "ram": 47.7,
+      "gpu": 40.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 1.16,
+      "net_upload": 0.106,
+      "net_download": 10.946,
+      "timestamp": 1764348460.8795164
+    },
+    {
+      "cpu": 13.2,
+      "ram": 47.7,
+      "gpu": 37.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.01,
+      "disk_write": 1.36,
+      "net_upload": 0.268,
+      "net_download": 19.196,
+      "timestamp": 1764348461.8753116
+    },
+    {
+      "cpu": 15.6,
+      "ram": 47.8,
+      "gpu": 30.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 2.14,
+      "net_upload": 0.295,
+      "net_download": 12.229,
+      "timestamp": 1764348462.9052029
+    },
+    {
+      "cpu": 15.6,
+      "ram": 47.8,
+      "gpu": 30.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 2.14,
+      "net_upload": 0.295,
+      "net_download": 12.229,
+      "timestamp": 1764348463.8824735
+    },
+    {
+      "cpu": 9.5,
+      "ram": 47.8,
+      "gpu": 37.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 1.24,
+      "net_upload": 0.127,
+      "net_download": 11.705,
+      "timestamp": 1764348464.8738549
+    },
+    {
+      "cpu": 25.1,
+      "ram": 47.4,
+      "gpu": 26.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 1.11,
+      "net_upload": 0.224,
+      "net_download": 18.963,
+      "timestamp": 1764348465.882327
+    },
+    {
+      "cpu": 25.1,
+      "ram": 47.4,
+      "gpu": 26.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 1.11,
+      "net_upload": 0.224,
+      "net_download": 18.963,
+      "timestamp": 1764348466.8848083
+    },
+    {
+      "cpu": 7.1,
+      "ram": 47.4,
+      "gpu": 25.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 2.04,
+      "net_upload": 0.141,
+      "net_download": 12.02,
+      "timestamp": 1764348467.877685
+    },
+    {
+      "cpu": 16.5,
+      "ram": 47.4,
+      "gpu": 37.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 1.4,
+      "net_upload": 0.195,
+      "net_download": 19.716,
+      "timestamp": 1764348468.8755727
+    },
+    {
+      "cpu": 9.1,
+      "ram": 47.4,
+      "gpu": 31.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 2.42,
+      "net_upload": 0.102,
+      "net_download": 10.068,
+      "timestamp": 1764348469.8908975
+    },
+    {
+      "cpu": 9.1,
+      "ram": 47.4,
+      "gpu": 31.0,
+      "gpu_temp": 53.0,
+      "disk_read": 0.0,
+      "disk_write": 2.42,
+      "net_upload": 0.102,
+      "net_download": 10.068,
+      "timestamp": 1764348470.8763134
+    }
+  ],
+  "stats": {
+    "avg_cpu": 15.307142857142866,
+    "max_cpu": 25.1,
+    "avg_ram": 47.653571428571446,
+    "max_ram": 47.8
+  },
+  "risk": {
+    "status": "NORMAL",
+    "risk_score": 0.0004599016994118428,
+    "predicted_cpu": 17.36971664428711,
+    "current_cpu": 9.1
+  }
+}

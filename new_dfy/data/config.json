@@ -1,0 +1,9 @@
+{
+    "language": "ko",
+    "theme": "dark",
+    "hud_enabled": true,
+    "hud_click_through": false,
+    "hud_opacity": 0.85,
+    "hud_pos_x": 1725,
+    "hud_pos_y": 70
+}

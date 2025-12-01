@@ -1,0 +1,96 @@
+{
+  "session_id": "20251129_011818",
+  "game_name": "desktop",
+  "created_at": 1764346706.456391,
+  "time_series": [
+    {
+      "cpu": 23.7,
+      "ram": 46.5,
+      "gpu": 11.0,
+      "gpu_temp": 50.0,
+      "disk_read": 0.27,
+      "disk_write": 0.82,
+      "net_upload": 0.053,
+      "net_download": 3.015,
+      "timestamp": 1764346700.0210834
+    },
+    {
+      "cpu": 23.7,
+      "ram": 46.5,
+      "gpu": 11.0,
+      "gpu_temp": 50.0,
+      "disk_read": 0.27,
+      "disk_write": 0.82,
+      "net_upload": 0.053,
+      "net_download": 3.015,
+      "timestamp": 1764346700.9998424
+    },
+    {
+      "cpu": 20.5,
+      "ram": 46.6,
+      "gpu": 7.0,
+      "gpu_temp": 50.0,
+      "disk_read": 0.02,
+      "disk_write": 0.05,
+      "net_upload": 0.025,
+      "net_download": 2.89,
+      "timestamp": 1764346702.008345
+    },
+    {
+      "cpu": 14.1,
+      "ram": 46.6,
+      "gpu": 7.0,
+      "gpu_temp": 50.0,
+      "disk_read": 0.0,
+      "disk_write": 0.06,
+      "net_upload": 0.022,
+      "net_download": 2.682,
+      "timestamp": 1764346702.9999692
+    },
+    {
+      "cpu": 19.6,
+      "ram": 46.6,
+      "gpu": 6.0,
+      "gpu_temp": 51.0,
+      "disk_read": 0.06,
+      "disk_write": 0.06,
+      "net_upload": 0.023,
+      "net_download": 2.684,
+      "timestamp": 1764346704.055626
+    },
+    {
+      "cpu": 19.6,
+      "ram": 46.6,
+      "gpu": 6.0,
+      "gpu_temp": 51.0,
+      "disk_read": 0.06,
+      "disk_write": 0.06,
+      "net_upload": 0.023,
+      "net_download": 2.684,
+      "timestamp": 1764346704.9990642
+    },
+    {
+      "cpu": 19.6,
+      "ram": 46.6,
+      "gpu": 6.0,
+      "gpu_temp": 49.0,
+      "disk_read": 0.12,
+      "disk_write": 0.17,
+      "net_upload": 0.224,
+      "net_download": 3.809,
+      "timestamp": 1764346706.0043745
+    }
+  ],
+  "stats": {
+    "avg_cpu": 20.11428571428571,
+    "max_cpu": 23.7,
+    "avg_ram": 46.57142857142857,
+    "max_ram": 46.6
+  },
+  "risk": {
+    "status": "NORMAL",
+    "risk_score": 0.0006085596888925143,
+    "predicted_cpu": 19.47144889831543,
+    "current_cpu": 19.6
+  }
+}

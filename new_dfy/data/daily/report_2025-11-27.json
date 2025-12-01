@@ -1,0 +1,27 @@
+{
+    "date": "2025-11-27",
+    "cpu_avg": 15.744652406417103,
+    "ram_avg": 38.15026737967915,
+    "cpu_max": 52.6,
+    "ram_max": 38.8,
+    "ai_average": 0.22466336898395717,
+    "ai_warnings": 0,
+    "top_process_usage": [
+        {
+            "name": "Code.exe",
+            "seconds": 748
+        },
+        {
+            "name": "chrome.exe",
+            "seconds": 374
+        },
+        {
+            "name": "Discord.exe",
+            "seconds": 374
+        },
+        {
+            "name": "steamwebhelper.exe",
+            "seconds": 374
+        }
+    ]
+}
