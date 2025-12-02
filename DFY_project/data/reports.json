@@ -1,0 +1,1362 @@
+[
+  {
+    "timestamp": "2025-12-03 02:27:57",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.3,
+      "ram_usage": 66.6,
+      "disk_usage": null,
+      "disk_read": 0.11505668476424141,
+      "disk_write": 0.07670445650949428,
+      "net_upload": 0.0012043592185710084,
+      "net_download": 0.0008848353442562512,
+      "net_sent_mb": 71.75733852386475,
+      "net_recv_mb": 58.73782920837402,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.6494782430931635e-05,
+      "predicted_cpu": 1.6402066946029663,
+      "current_cpu": 0.4
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:27:59",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.3,
+      "ram_usage": 66.5,
+      "disk_usage": null,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0011380148359268637,
+      "net_download": 0.0009405417785298946,
+      "net_sent_mb": 71.76840209960938,
+      "net_recv_mb": 58.744876861572266,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.6659411120010005e-05,
+      "predicted_cpu": 1.6620315313339233,
+      "current_cpu": 2.2
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:28:00",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.4,
+      "ram_usage": 66.6,
+      "disk_usage": null,
+      "disk_read": 0.07506262998101272,
+      "disk_write": 0.0,
+      "net_upload": 0.0028141614053855627,
+      "net_download": 0.009014021269997712,
+      "net_sent_mb": 71.77207851409912,
+      "net_recv_mb": 58.753241539001465,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.6841699126070065e-05,
+      "predicted_cpu": 1.6861236095428467,
+      "current_cpu": 12.3
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:28:03",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.0,
+      "ram_usage": 66.5,
+      "disk_usage": null,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0,
+      "net_download": 0.0,
+      "net_sent_mb": 71.77343559265137,
+      "net_recv_mb": 58.75456142425537,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.6873158697270835e-05,
+      "predicted_cpu": 1.690273642539978,
+      "current_cpu": 0.1
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:28:52",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.4,
+      "ram_usage": 66.5,
+      "disk_usage": null,
+      "disk_read": 0.4856342674621885,
+      "disk_write": 0.0,
+      "net_upload": 0.0005158201374859059,
+      "net_download": 0.00043457374220424305,
+      "net_sent_mb": 71.7952651977539,
+      "net_recv_mb": 58.795942306518555,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.659214486050329e-05,
+      "predicted_cpu": 1.6531217098236084,
+      "current_cpu": 0.2
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:35:16",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 4.8,
+      "ram_usage": 67.4,
+      "disk_usage": null,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0006019345753603112,
+      "net_download": 0.0013821547580854068,
+      "net_sent_mb": 72.29920673370361,
+      "net_recv_mb": 59.279316902160645,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.6863213700952734e-05,
+      "predicted_cpu": 1.6889619827270508,
+      "current_cpu": 5.8
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:37:54",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.6,
+      "ram_usage": 68.4,
+      "disk_usage": null,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0033696153718003044,
+      "net_download": 0.0074944661505442645,
+      "net_sent_mb": 72.74325466156006,
+      "net_recv_mb": 59.64838695526123,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.6563994362066984e-05,
+      "predicted_cpu": 1.6493898630142212,
+      "current_cpu": 1.1
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:37:56",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.0,
+      "ram_usage": 68.3,
+      "disk_usage": null,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0,
+      "net_download": 0.0,
+      "net_sent_mb": 72.74359607696533,
+      "net_recv_mb": 59.64940547943115,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.6641919300671715e-05,
+      "predicted_cpu": 1.6597156524658203,
+      "current_cpu": 0.8
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:37:56",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 19.2,
+      "ram_usage": 68.3,
+      "disk_usage": null,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0,
+      "net_download": 0.0001745773228422061,
+      "net_sent_mb": 72.74359607696533,
+      "net_recv_mb": 59.64946269989014,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.6641919300671715e-05,
+      "predicted_cpu": 1.6597156524658203,
+      "current_cpu": 0.8
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:43:32",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 1.2,
+      "ram_usage": 68.2,
+      "disk_usage": null,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0008688020868846077,
+      "net_download": 0.001867374612063372,
+      "net_sent_mb": 73.1846113204956,
+      "net_recv_mb": 60.61291313171387,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.6933041659643995e-05,
+      "predicted_cpu": 1.698166847229004,
+      "current_cpu": 3.8
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:43:36",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 1.2,
+      "ram_usage": 68.2,
+      "disk_usage": null,
+      "disk_read": 0.0,
+      "disk_write": 29.123734446247777,
+      "net_upload": 0.0,
+      "net_download": 0.0,
+      "net_sent_mb": 73.2561445236206,
+      "net_recv_mb": 60.69226360321045,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.673373972066535e-05,
+      "predicted_cpu": 1.6718645095825195,
+      "current_cpu": 0.2
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:43:37",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.0,
+      "ram_usage": 68.2,
+      "disk_usage": null,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0,
+      "net_download": 0.0,
+      "net_sent_mb": 73.26443481445312,
+      "net_recv_mb": 60.692532539367676,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.681971044752656e-05,
+      "predicted_cpu": 1.6832215785980225,
+      "current_cpu": 8.0
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:44:19",
+    "score": 78,
+    "status": "주의",
+    "summary": "전체 점수: 78점, 상태: 주의",
+    "issues": [
+      "메모리 사용률이 높습니다 (81.7%). 불필요한 프로그램 종료를 권장합니다."
+    ],
+    "metrics": {
+      "cpu_usage": 2.5,
+      "ram_usage": 81.7,
+      "disk_usage": null,
+      "disk_read": 3.1393000125949007,
+      "disk_write": 2.1515030258732293,
+      "net_upload": 0.0008093772131408172,
+      "net_download": 0.0005417871957350776,
+      "net_sent_mb": 73.44854068756104,
+      "net_recv_mb": 60.95914840698242,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.459787305769548e-05,
+      "predicted_cpu": 1.3840422630310059,
+      "current_cpu": 4.3
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:44:21",
+    "score": 78,
+    "status": "주의",
+    "summary": "전체 점수: 78점, 상태: 주의",
+    "issues": [
+      "메모리 사용률이 높습니다 (81.5%). 불필요한 프로그램 종료를 권장합니다."
+    ],
+    "metrics": {
+      "cpu_usage": 1.1,
+      "ram_usage": 81.5,
+      "disk_usage": null,
+      "disk_read": 2.5847225006995593,
+      "disk_write": 19.139942316632773,
+      "net_upload": 0.0002644004609381369,
+      "net_download": 0.00037016064531339166,
+      "net_sent_mb": 73.44914531707764,
+      "net_recv_mb": 60.95966339111328,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.579865178884448e-05,
+      "predicted_cpu": 1.5472121238708496,
+      "current_cpu": 0.6
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:44:22",
+    "score": 78,
+    "status": "주의",
+    "summary": "전체 점수: 78점, 상태: 주의",
+    "issues": [
+      "메모리 사용률이 높습니다 (81.5%). 불필요한 프로그램 종료를 권장합니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.4,
+      "ram_usage": 81.5,
+      "disk_usage": null,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.00030764325687932274,
+      "net_download": 0.0,
+      "net_sent_mb": 73.44924926757812,
+      "net_recv_mb": 60.95971488952637,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.621314444127145e-05,
+      "predicted_cpu": 1.6027220487594604,
+      "current_cpu": 5.9
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:45:02",
+    "score": 78,
+    "status": "주의",
+    "summary": "전체 점수: 78점, 상태: 주의",
+    "issues": [
+      "메모리 사용률이 높습니다 (80.1%). 불필요한 프로그램 종료를 권장합니다."
+    ],
+    "metrics": {
+      "cpu_usage": 2.9,
+      "ram_usage": 80.1,
+      "disk_usage": null,
+      "disk_read": 7.368037574937015,
+      "disk_write": 13.063795040722466,
+      "net_upload": 0.0002966075080084027,
+      "net_download": 0.00018843300508769115,
+      "net_sent_mb": 73.76061630249023,
+      "net_recv_mb": 61.41452503204346,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.663762798069788e-05,
+      "predicted_cpu": 1.6591473817825317,
+      "current_cpu": 1.7
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:45:03",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.7,
+      "ram_usage": 73.6,
+      "disk_usage": null,
+      "disk_read": 0.7531679134010398,
+      "disk_write": 0.9496464995056589,
+      "net_upload": 0.00014390521443209407,
+      "net_download": 0.00020786308751302477,
+      "net_sent_mb": 73.76091957092285,
+      "net_recv_mb": 61.41473960876465,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.685876735075913e-05,
+      "predicted_cpu": 1.688375473022461,
+      "current_cpu": 13.4
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:45:04",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 2.1,
+      "ram_usage": 73.6,
+      "disk_usage": null,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0018956274483376305,
+      "net_download": 0.001426068355630144,
+      "net_sent_mb": 73.76117992401123,
+      "net_recv_mb": 61.41495895385742,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.6935301176868455e-05,
+      "predicted_cpu": 1.6984645128250122,
+      "current_cpu": 8.5
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:45:06",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.0,
+      "ram_usage": 73.2,
+      "disk_usage": null,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0,
+      "net_download": 0.0,
+      "net_sent_mb": 73.77212333679199,
+      "net_recv_mb": 61.425679206848145,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.696059271247254e-05,
+      "predicted_cpu": 1.7017955780029297,
+      "current_cpu": 0.7
+    }
+  },
+  {
+    "timestamp": "2025-12-03 02:59:55",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.6,
+      "ram_usage": 67.5,
+      "disk_usage": null,
+      "disk_read": 198448.85693359375,
+      "disk_write": 155669.66162109375,
+      "net_upload": 75.7912425994873,
+      "net_download": 63.56547451019287,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null,
+      "net_sent_mb": 75.7912425994873,
+      "net_recv_mb": 63.56547451019287
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.068678824473948e-05,
+      "predicted_cpu": 0.8265406489372253,
+      "current_cpu": 1.0
+    }
+  },
+  {
+    "timestamp": "2025-12-03 03:00:00",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.4,
+      "ram_usage": 67.4,
+      "disk_usage": null,
+      "disk_read": 198460.88037109375,
+      "disk_write": 155676.31787109375,
+      "net_upload": 75.79756259918213,
+      "net_download": 63.577120780944824,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null,
+      "net_sent_mb": 75.79756259918213,
+      "net_recv_mb": 63.577120780944824
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.068678824473948e-05,
+      "predicted_cpu": 0.8265406489372253,
+      "current_cpu": 0.1
+    }
+  },
+  {
+    "timestamp": "2025-12-03 03:05:45",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.0,
+      "ram_usage": 66.1,
+      "disk_usage": null,
+      "disk_read": 198712.98583984375,
+      "disk_write": 156276.08349609375,
+      "net_upload": 76.00979709625244,
+      "net_download": 63.941545486450195,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null,
+      "net_sent_mb": 76.00979709625244,
+      "net_recv_mb": 63.941545486450195
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.068678824473948e-05,
+      "predicted_cpu": 0.8265406489372253,
+      "current_cpu": 2.8
+    }
+  },
+  {
+    "timestamp": "2025-12-03 03:06:14",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.1,
+      "ram_usage": 66.1,
+      "disk_usage": null,
+      "disk_read": 198724.79833984375,
+      "disk_write": 156305.43505859375,
+      "net_upload": 76.02531814575195,
+      "net_download": 63.995150566101074,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null,
+      "net_sent_mb": 76.02531814575195,
+      "net_recv_mb": 63.995150566101074
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.068678824473948e-05,
+      "predicted_cpu": 0.8265406489372253,
+      "current_cpu": 0.2
+    }
+  },
+  {
+    "timestamp": "2025-12-03 03:06:15",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.1,
+      "ram_usage": 66.0,
+      "disk_usage": null,
+      "disk_read": 198725.31005859375,
+      "disk_write": 156306.47412109375,
+      "net_upload": 76.02542209625244,
+      "net_download": 63.995368003845215,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null,
+      "net_sent_mb": 76.02542209625244,
+      "net_recv_mb": 63.995368003845215
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.068678824473948e-05,
+      "predicted_cpu": 0.8265406489372253,
+      "current_cpu": 12.3
+    }
+  },
+  {
+    "timestamp": "2025-12-03 04:02:44",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": null,
+      "ram_usage": 68.9,
+      "disk_usage": null,
+      "disk_read": null,
+      "disk_write": null,
+      "net_upload": null,
+      "net_download": null,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null,
+      "net_sent_mb": 0.0,
+      "net_recv_mb": 0.0
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.653990783171089e-05,
+      "predicted_cpu": 1.6461952924728394,
+      "current_cpu": 0.0
+    }
+  },
+  {
+    "timestamp": "2025-12-03 04:03:08",
+    "score": 86,
+    "status": "정상",
+    "summary": "전체 점수: 86점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": null,
+      "ram_usage": 69.0,
+      "disk_usage": null,
+      "disk_read": null,
+      "disk_write": null,
+      "net_upload": null,
+      "net_download": null,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null,
+      "net_sent_mb": 0.0,
+      "net_recv_mb": 0.0
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.653886902864794e-05,
+      "predicted_cpu": 1.6460574865341187,
+      "current_cpu": 0.0
+    }
+  },
+  {
+    "timestamp": "2025-12-03 04:14:48",
+    "score": 88,
+    "status": "정상",
+    "summary": "전체 점수: 88점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.3,
+      "ram_usage": 65.9,
+      "disk_usage": 0.0,
+      "disk_read": 0.08189949953152352,
+      "disk_write": 0.07166206209008308,
+      "net_upload": 0.00013496621626899017,
+      "net_download": 6.748310813449508e-05,
+      "net_sent_mb": 86.11948204040527,
+      "net_recv_mb": 90.76118469238281,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.660523167395336e-05,
+      "predicted_cpu": 1.6548559665679932,
+      "current_cpu": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-12-03 04:16:15",
+    "score": 88,
+    "status": "정상",
+    "summary": "전체 점수: 88점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.5,
+      "ram_usage": 66.5,
+      "disk_usage": 0.0,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0004866193861864166,
+      "net_download": 0.00048013112770393105,
+      "net_sent_mb": 86.21726989746094,
+      "net_recv_mb": 90.85331058502197,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.662490356742844e-05,
+      "predicted_cpu": 1.6574621200561523,
+      "current_cpu": 0.5
+    }
+  },
+  {
+    "timestamp": "2025-12-03 04:16:16",
+    "score": 88,
+    "status": "정상",
+    "summary": "전체 점수: 88점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.1,
+      "ram_usage": 66.2,
+      "disk_usage": 0.0,
+      "disk_read": 0.0,
+      "disk_write": 0.6475521400710929,
+      "net_upload": 0.0,
+      "net_download": 0.0,
+      "net_sent_mb": 86.21747779846191,
+      "net_recv_mb": 90.85346698760986,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.681045559934322e-05,
+      "predicted_cpu": 1.6819998025894165,
+      "current_cpu": 13.9
+    }
+  },
+  {
+    "timestamp": "2025-12-03 04:19:09",
+    "score": 88,
+    "status": "정상",
+    "summary": "전체 점수: 88점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.0,
+      "ram_usage": 65.7,
+      "disk_usage": 0.0,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0,
+      "net_download": 0.0,
+      "net_sent_mb": 86.36872863769531,
+      "net_recv_mb": 91.03541374206543,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.661451067948569e-05,
+      "predicted_cpu": 1.6560853719711304,
+      "current_cpu": 0.1
+    }
+  },
+  {
+    "timestamp": "2025-12-03 04:55:02",
+    "score": 88,
+    "status": "정상",
+    "summary": "전체 점수: 88점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.2,
+      "ram_usage": 75.1,
+      "disk_usage": 0.0,
+      "disk_read": 0.0,
+      "disk_write": 0.09670929141577991,
+      "net_upload": 0.0003069386690442233,
+      "net_download": 0.0031548348180882443,
+      "net_sent_mb": 93.17872714996338,
+      "net_recv_mb": 106.31678771972656,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.6463172286498515e-05,
+      "predicted_cpu": 1.636008858680725,
+      "current_cpu": 0.1
+    }
+  },
+  {
+    "timestamp": "2025-12-03 05:29:03",
+    "score": 88,
+    "status": "정상",
+    "summary": "전체 점수: 88점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.1,
+      "ram_usage": 67.8,
+      "disk_usage": 0.0,
+      "disk_read": 0.6762544182828075,
+      "disk_write": 0.1532045407791139,
+      "net_upload": 0.001701857081408614,
+      "net_download": 0.0016025041611340727,
+      "net_sent_mb": 97.29073429107666,
+      "net_recv_mb": 110.98310279846191,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.6585111543729034e-05,
+      "predicted_cpu": 1.6521894931793213,
+      "current_cpu": 0.3
+    }
+  },
+  {
+    "timestamp": "2025-12-03 05:36:20",
+    "score": 88,
+    "status": "정상",
+    "summary": "전체 점수: 88점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.0,
+      "ram_usage": 71.2,
+      "disk_usage": 0.0,
+      "disk_read": 0.0,
+      "disk_write": 0.0,
+      "net_upload": 0.0,
+      "net_download": 0.0,
+      "net_sent_mb": 98.64013862609863,
+      "net_recv_mb": 112.35586547851562,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.653106962911369e-05,
+      "predicted_cpu": 1.6450227499008179,
+      "current_cpu": 0.5
+    }
+  },
+  {
+    "timestamp": "2025-12-03 06:34:35",
+    "score": 88,
+    "status": "정상",
+    "summary": "전체 점수: 88점, 상태: 정상",
+    "issues": [
+      "특별한 이상 징후는 감지되지 않았습니다."
+    ],
+    "metrics": {
+      "cpu_usage": 0.9,
+      "ram_usage": 71.7,
+      "disk_usage": 0.0,
+      "disk_read": 0.0,
+      "disk_write": 6.142421866537658,
+      "net_upload": 0.0004714357632292452,
+      "net_download": 0.0001481655255863342,
+      "net_sent_mb": 106.05363941192627,
+      "net_recv_mb": 122.03355503082275,
+      "cpu_temp": null,
+      "gpu_temp": null,
+      "gpu_usage": null
+    },
+    "specs_cpu": {
+      "name": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+      "physical_cores": 12,
+      "logical_cores": 24,
+      "base_freq_mhz": 3001.0
+    },
+    "specs_ram": {
+      "total_gb": 15.212940216064453
+    },
+    "specs_gpu_count": 0,
+    "spike_info": null,
+    "load_risk": {
+      "status": "NORMAL",
+      "risk_score": 5.617233738266403e-05,
+      "predicted_cpu": 1.5972752571105957,
+      "current_cpu": 0.3
+    }
+  }
+]
